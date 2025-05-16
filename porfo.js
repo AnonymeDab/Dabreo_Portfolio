@@ -68,8 +68,8 @@ window.addEventListener('scroll', scollActive);
      backDelay: 1000,
      });
 
-     document.getElementById('btn').addEventListener('click', function() {
-      alert(""");
+     document.getElementById('.btn').addEventListener('click', function() {
+
   });
   
 
